@@ -5,10 +5,43 @@ The following is a breakdown of the IBM IT Project Manager, IBM Project Manager 
 - [Course - IBM - IBM Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-project-manager)
 - [Course - IBM - Modern Project Management Specialization](https://www.coursera.org/specializations/skillup-edtech-modern-project-management)
 
-There is my certificate:
+There is my accomplishments:
 - [Course - IBM - IBM IT Project Manager Professional - Grade Achieved: 86.94](https://www.coursera.org/account/accomplishments/professional-cert/LDR824ND2JGB) , [Certificate](https://drive.google.com/file/d/1yPhZsLoqpwlr8ZqEZvZGgy3oDhcj-AtB/view?usp=drive_link)
 - [Course - IBM - IBM Project Manager Professional - Grade Achieved: 86.66](https://www.coursera.org/account/accomplishments/professional-cert/6HY96M5NWLVW) , [Certificate](https://drive.google.com/file/d/1iBYTRyJEuZjLyS5BvAtULqzulDD1kueL/view?usp=drive_link)
 - [Course - IBM - Modern Project Management Specialization - Grade Achieved: 84.66](https://www.coursera.org/account/accomplishments/specialization/9FEWPQKXB5WY), [Certificate](https://drive.google.com/file/d/16y0x4cDidqOMfpraqhDpCE2ajDJoqMpM/view?usp=drive_link)
+
+Badge:
+![alt text](https://www.credly.com/badges/872d69bf-5e24-466b-8893-eafd7f9fe677/public_url "IBM Project Manager Professional Certificate") ![alt text](https://www.credly.com/badges/28fbfb6c-a00d-4502-97c2-2c84be7b3fba/public_url "Project Management Essentials") ![alt text](https://www.credly.com/badges/ca2a6619-fde4-40a0-bdb3-ce6c5543b62b/public_url "IT Fundamentals for Everyone")  ![alt text](https://www.credly.com/badges/17c011cb-2183-43fe-8e2b-8ebd3efbe761/public_url "Software Engineering Essentials") 
+
+The skill i have acquired:
+- agile
+- Basic Programming Concepts
+- Cloud Computing
+- Communication
+- Cybersecurity
+- Databases
+- Hardware
+- Information Technology
+- IT Project Management
+- Leadership
+- Networking
+- Operating Systems
+- Operations
+- Programming
+- Project Initiation
+- Project Management
+- Project Management Methodologies
+- Risk Management
+- Scrum Master
+- SDLC
+- Software Architecture
+- Software Building Process
+- Software Development Lifecycle
+- Software Development Tools
+- Software Engineer
+- Software Engineering
+- Storage
+- Support
 
 [All of my submissions](https://drive.google.com/drive/folders/1zkfHaZBduI2ZWtIxlwDeRgqmCOML-akQ?usp=drive_link)
 
