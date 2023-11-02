@@ -47,6 +47,7 @@ The skill i have acquired:
 [All of my submissions](https://drive.google.com/drive/folders/1zkfHaZBduI2ZWtIxlwDeRgqmCOML-akQ?usp=drive_link)
 
 ## Introduction to Project Management - Grade Achieved: 94
+> No Project Submission
 ## Project Management Foundations, Initiation, and Planning - Grade Achieved: 84.60
 ## Project Lifecycle, Information Sharing, and Risk Management - Grade Achieved: 82.96
 ## Project Management Communication, Stakeholders & Leadership - Grade Achieved: 88.08
