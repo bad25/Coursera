@@ -66,7 +66,12 @@ Note:
 > Determine what steps you should take to gain the skills you need to apply for a required Scrum Master position. Focus only on the skill gaps that you need to achieve to reach the skill level of the required job posting.
 > Use the Scrum Master Skills Inventory spreadsheet as a guide for the essential skills and competencies a Scrum Master should possess.
 
+Job Source
+- [Scrum Master - Asaren.ai](https://drive.google.com/file/d/1jJ58_pmHzby2ljWUWahxJlmwB4LVrtWX/view?usp=drive_link)
+- [Scrum Master - PT Phincon](https://drive.google.com/file/d/1qfiZ6gsMWV3Asri0o2wsD7G-W46dVtJa/view?usp=drive_link)
+- [Scrum Master - PT IDStar Cipta Teknologi](https://drive.google.com/file/d/1FSbqvlr4KpoASOgvSkXQSWgxqYO0Dn7I/view?usp=drive_link)
 
+[Scrum Master Skills Inventory](https://drive.google.com/drive/folders/1-1FvNmPw6wUiPKo-KFB2FN8K8lL-G5Vm?usp=drive_link)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Final Project Scenario
