@@ -11,6 +11,7 @@ There is my accomplishments:
 - [Course - IBM - Modern Project Management Specialization - Grade Achieved: 84.66](https://www.coursera.org/account/accomplishments/specialization/9FEWPQKXB5WY), [Certificate](https://drive.google.com/file/d/16y0x4cDidqOMfpraqhDpCE2ajDJoqMpM/view?usp=drive_link)
 
 Badge:
+
 ![alt text](https://github.com/bad25/Coursera/blob/20743598b0c87838d21e0426b950c8f005db8d77/IBM%20Project%20Manager/Badge/ibm-project-manager-professional-certificate.png "IBM Project Manager Professional Certificate") ![alt text](https://github.com/bad25/Coursera/blob/20743598b0c87838d21e0426b950c8f005db8d77/IBM%20Project%20Manager/Badge/project-management-essentials.png "Project Management Essentials") ![alt text](https://github.com/bad25/Coursera/blob/20743598b0c87838d21e0426b950c8f005db8d77/IBM%20Project%20Manager/Badge/it-fundamentals-for-everyone.png "IT Fundamentals for Everyone")  ![alt text](https://github.com/bad25/Coursera/blob/887652e2e44e844da1a494a3299dbc98219c66dc/IBM%20Project%20Manager/Badge/software-engineering-essentials.png "Software Engineering Essentials") 
 
 The skill i have acquired:
@@ -129,5 +130,8 @@ Neuro Ability Development (NAD) Inc. specializes in developing a wide line of he
 [Neuro Ability Development (NAD) Inc - SWOT Analysis and Action Plan based](https://drive.google.com/drive/folders/1Ln5dzSVVkz6i3B8DOjhmc0rdEzdYzBCp?usp=drive_link)
 
 ## Introduction to Agile Development and Scrum - Grade Achieved: 86
+> Kanban Board on Zenhub - Error link : Trial expired
+> https://app.zenhub.com/workspaces/try-agile-652305df47acda49410bf256/board
 ## Project Management Capstone - Grade Achieved: 87.97
 ## Practice Exam for CAPM Certification - Grade Achieved: 83
+> No Project Submission
