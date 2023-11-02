@@ -6,19 +6,19 @@ The following is a breakdown of the IBM IT Project Manager, IBM Project Manager 
 - [Course - IBM - Modern Project Management Specialization](https://www.coursera.org/specializations/skillup-edtech-modern-project-management)
 
 There is my certificate:
-- [Course - IBM - IBM IT Project Manager Professional - Grade Achieved: 90](https://www.coursera.org/account/accomplishments/professional-cert/LDR824ND2JGB) , [Certificate](https://drive.google.com/file/d/1yPhZsLoqpwlr8ZqEZvZGgy3oDhcj-AtB/view?usp=drive_link)
-- [Course - IBM - IBM Project Manager Professional - Grade Achieved: 90](https://www.coursera.org/account/accomplishments/professional-cert/6HY96M5NWLVW) , [Certificate](https://drive.google.com/file/d/1iBYTRyJEuZjLyS5BvAtULqzulDD1kueL/view?usp=drive_link)
+- [Course - IBM - IBM IT Project Manager Professional - Grade Achieved: 86.94](https://www.coursera.org/account/accomplishments/professional-cert/LDR824ND2JGB) , [Certificate](https://drive.google.com/file/d/1yPhZsLoqpwlr8ZqEZvZGgy3oDhcj-AtB/view?usp=drive_link)
+- [Course - IBM - IBM Project Manager Professional - Grade Achieved: 86.66](https://www.coursera.org/account/accomplishments/professional-cert/6HY96M5NWLVW) , [Certificate](https://drive.google.com/file/d/1iBYTRyJEuZjLyS5BvAtULqzulDD1kueL/view?usp=drive_link)
 - [Course - IBM - Modern Project Management Specialization - Grade Achieved: 84.66](https://www.coursera.org/account/accomplishments/specialization/9FEWPQKXB5WY), [Certificate](https://drive.google.com/file/d/16y0x4cDidqOMfpraqhDpCE2ajDJoqMpM/view?usp=drive_link)
 
 [All of my submissions](https://drive.google.com/drive/folders/1zkfHaZBduI2ZWtIxlwDeRgqmCOML-akQ?usp=drive_link)
 
-## Introduction to Project Management
+## Introduction to Project Management - Grade Achieved: 94
 ## Project Management Foundations, Initiation, and Planning - Grade Achieved: 84.60
 ## Project Lifecycle, Information Sharing, and Risk Management - Grade Achieved: 82.96
 ## Project Management Communication, Stakeholders & Leadership - Grade Achieved: 88.08
-## Information Technology (IT) Fundamentals for Everyone
-## Introduction to Software Engineering
-## Introduction to Scrum Master Profession
+## Information Technology (IT) Fundamentals for Everyone - Grade Achieved: 85.50
+## Introduction to Software Engineering - Grade Achieved: 84.20
+## Introduction to Scrum Master Profession - Grade Achieved: 89.17
 
 ### Case Study: The Role of a Scrum Master
 
@@ -66,6 +66,13 @@ Note:
 > Determine what steps you should take to gain the skills you need to apply for a required Scrum Master position. Focus only on the skill gaps that you need to achieve to reach the skill level of the required job posting.
 > Use the Scrum Master Skills Inventory spreadsheet as a guide for the essential skills and competencies a Scrum Master should possess.
 
+Job Source
+- [Scrum Master - Asaren.ai](https://drive.google.com/file/d/1jJ58_pmHzby2ljWUWahxJlmwB4LVrtWX/view?usp=drive_link)
+- [Scrum Master - PT Phincon](https://drive.google.com/file/d/1qfiZ6gsMWV3Asri0o2wsD7G-W46dVtJa/view?usp=drive_link)
+- [Scrum Master - PT IDStar Cipta Teknologi](https://drive.google.com/file/d/1FSbqvlr4KpoASOgvSkXQSWgxqYO0Dn7I/view?usp=drive_link)
+
+[Scrum Master Skills Inventory](https://drive.google.com/drive/folders/1-1FvNmPw6wUiPKo-KFB2FN8K8lL-G5Vm?usp=drive_link)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Final Project Scenario
 
@@ -88,6 +95,6 @@ Neuro Ability Development (NAD) Inc. specializes in developing a wide line of he
 
 [Neuro Ability Development (NAD) Inc - SWOT Analysis and Action Plan based](https://drive.google.com/drive/folders/1Ln5dzSVVkz6i3B8DOjhmc0rdEzdYzBCp?usp=drive_link)
 
-## Introduction to Agile Development and Scrum
-## Project Management Capstone
+## Introduction to Agile Development and Scrum - Grade Achieved: 86
+## Project Management Capstone - Grade Achieved: 87.97
 ## Practice Exam for CAPM Certification - Grade Achieved: 83
