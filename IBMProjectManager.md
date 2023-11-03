@@ -49,6 +49,15 @@ The skill i have acquired:
 ## Introduction to Project Management - Grade Achieved: 94
 > No Project Submission
 ## Project Management Foundations, Initiation, and Planning - Grade Achieved: 84.60
+- [Hands-on Lab: Stacey Diagram Analysis](https://github.com/bad25/Coursera/)
+- [Hands-on Lab: The Dysfunctional Team](https://github.com/bad25/Coursera/)
+- [Hands-on Lab: Develop a Project Charter and Project Brief](https://github.com/bad25/Coursera/)
+- [Hands-on Lab: Develop a Stakeholder Register](https://github.com/bad25/Coursera/)
+- [Hands-on Lab: Develop a Stakeholder Engagement Plan](https://github.com/bad25/Coursera/)
+- [Hands-on Lab: Build a Work Breakdown Structure (WBS) and Network Diagram](https://github.com/bad25/Coursera/)
+- [Hands-on Lab: Budget Planning](https://github.com/bad25/Coursera/)
+- [Hands-on Lab: Earned Value Management (EVM)](https://github.com/bad25/Coursera/)
+- [Final Project Overview and Instructions - Scenario: New Hire Orientation program - Score 47 / 60 points](https://github.com/bad25/Coursera/)
 ## Project Lifecycle, Information Sharing, and Risk Management - Grade Achieved: 82.96
 ## Project Management Communication, Stakeholders & Leadership - Grade Achieved: 88.08
 ## Information Technology (IT) Fundamentals for Everyone - Grade Achieved: 85.50
