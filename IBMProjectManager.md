@@ -52,7 +52,15 @@ The skill i have acquired:
 ## Project Lifecycle, Information Sharing, and Risk Management - Grade Achieved: 82.96
 ## Project Management Communication, Stakeholders & Leadership - Grade Achieved: 88.08
 ## Information Technology (IT) Fundamentals for Everyone - Grade Achieved: 85.50
+> No Project Submission
 ## Introduction to Software Engineering - Grade Achieved: 84.20
+
+- [Hands-on lab: Getting started with an IDE](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Software%20Engineering/GettingstartedwithanIDE.md)
+
+- [Hands-on Lab : Hello World in 11 Programming Languages](https://github.com/bad25/Coursera/)
+
+- [Hands-on Lab: Programming Fundamentals with Python](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Software%20Engineering/IBM-CS0151EN-SkillsNetwork_labs_Module_3_Lab_Programming_Fundamentals_with_Python_Programming_Fundamentals_With_Python_Notebook-20221208-1670457600.jupyterlite.ipynb)
+
 ## Introduction to Scrum Master Profession - Grade Achieved: 89.17
 
 ### Case Study: The Role of a Scrum Master
@@ -131,8 +139,20 @@ Neuro Ability Development (NAD) Inc. specializes in developing a wide line of he
 [Neuro Ability Development (NAD) Inc - SWOT Analysis and Action Plan based](https://drive.google.com/drive/folders/1Ln5dzSVVkz6i3B8DOjhmc0rdEzdYzBCp?usp=drive_link)
 
 ## Introduction to Agile Development and Scrum - Grade Achieved: 86
+
+1. [Hands-on Lab: Get Set Up in ZenHub](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Agile%20Development%20and%20Scrum/GetSetUpinZenHub.md)
+2. [Hands-on Lab: Create an Issue Template in GitHub](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Agile%20Development%20and%20Scrum/CreateanissuetemplateinGitHub.md)
+3. [Hands-on Lab: Assemble Your Product Backlog](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Agile%20Development%20and%20Scrum/AssembleyourProductBacklog.md)
+4. [Hands-on Lab: Refine Your Product Backlog](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Agile%20Development%20and%20Scrum/RefineyourProductBacklog.md)
+5. [Hands-on Lab: Build a Sprint Plan from Your Product Backlog](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Agile%20Development%20and%20Scrum/BuildtheSprintPlanfromyourProductBacklog.md)
+6. [Hands-on Lab: Move Stories from In Progress to Done](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Agile%20Development%20and%20Scrum/MovestoriesfromInProgresstoDone.md)
+7. [Hands-on Lab: Setup a Burndown Chart for Your Plan](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Agile%20Development%20and%20Scrum/SetupaBurndownChartforYourPlan.md)
+8. [Hands-on Lab: End of Sprint Activities](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Agile%20Development%20and%20Scrum/EndofSprintActivities.md)
+9. [Final Project Overview and Scenario](https://github.com/bad25/Coursera/blob/main/IBM%20Project%20Manager/Introduction%20to%20Agile%20Development%20and%20Scrum/FinalProjectOverviewandScenario.md)
+
 > Kanban Board on Zenhub - Error link : Trial expired
 > https://app.zenhub.com/workspaces/try-agile-652305df47acda49410bf256/board
+
 ## Project Management Capstone - Grade Achieved: 87.97
 ## Practice Exam for CAPM Certification - Grade Achieved: 83
 > No Project Submission
