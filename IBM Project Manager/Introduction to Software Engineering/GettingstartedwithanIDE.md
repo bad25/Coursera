@@ -237,4 +237,4 @@ Congratulations! You have completed this lab and know how to run python programs
 | 2022-07-28 | 1.1 | Rav Ahuja | Instructions and formatting updated |
 | 2022-07-22 | 1.0 | Pallavi Rai | Initial version created |
 
-## &lt;h3 align&#x3D;&quot;center&quot;&gt; &amp;copy;IBM Corporation 2023. All rights reserved. &lt;h3/&gt;
+## <h3 style="align:center;">IBM Corporation 2023. All rights reserved. <h3>
