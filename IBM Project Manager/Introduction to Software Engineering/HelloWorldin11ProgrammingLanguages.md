@@ -3,14 +3,14 @@
 # Hands-on Lab -  Hello World in 11 Programming Languages
 Estimated Time: 15 minutes
 
-A software design is abstract and needs to be given a tangible form by code. Code is created using programming languages or scripting languages. In this lab, you will see how most commonly used languages are means to get to the end and provide similar output. The way you write the program and run the code will differ from one language to another. A software engineer can be proficient in one or more languages. In this lab you will begin your journey to become multilingual in computer programming by learning to say **&quot;Hello World!&quot;** in 10 popular languages: C, Java, Go, Python, Node JS, Ruby, PHP, PERL, Bash, C++ and a bonus markup language, HTML.
+A software design is abstract and needs to be given a tangible form by code. Code is created using programming languages or scripting languages. In this lab, you will see how most commonly used languages are means to get to the end and provide similar output. The way you write the program and run the code will differ from one language to another. A software engineer can be proficient in one or more languages. In this lab you will begin your journey to become multilingual in computer programming by learning to say **"Hello World!"** in 10 popular languages: C, Java, Go, Python, Node JS, Ruby, PHP, PERL, Bash, C++ and a bonus markup language, HTML.
 
 ## Learning Objectives:
 
 After completing this exercise, you should be able to perform the following tasks:
 
 - Understand how to write and run code
-- Display &quot;Hello World!&quot; in several languages: C, Java, Go, Python, Node JS, Ruby, PHP, PERL, Bash, C++ and HTML.
+- Display "Hello World!" in several languages: C, Java, Go, Python, Node JS, Ruby, PHP, PERL, Bash, C++ and HTML.
 - Obtain same output using different languages
 
 ### Pre-work - Open terminal
@@ -90,7 +90,7 @@ Java is an Object Oriented Programming language and is based on C++. It is one o
 ``` java
 public class helloworld {
     public static void main(String s[]){
-        System.out.println(&quot;Hello World!&quot;);
+        System.out.println("Hello World!");
     }
 }
 ``` 
@@ -132,13 +132,13 @@ Python is a scripting language. It is run as is and you cannot compile and creat
 
 
 ``` python
-print(&quot;Hello World!&quot;)
+print("Hello World!")
 ``` 
 This is how the file would appear on your window, after you paste the code and save it.
 
 <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/python_code.png" width="50%">
 
-<Yes! That&#x27;s right. It is just a one line code in Python.
+> Yes! That&#x27;s right. It is just a one line code in Python.
 
 5. Click on **File** menu and choose **Save** to save the changes.
 
@@ -146,10 +146,9 @@ This is how the file would appear on your window, after you paste the code and s
 
 ``` bash
 python helloworld.py
-``` 
+```
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/python_hw.png&quot; style&#x3D;&quot;width:75%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/python_hw.png" width="50%">
 
 ### Exercise 4: Display Hello World using Node JS
 
@@ -159,24 +158,22 @@ JavaScript is a scripting language. Javascript was initially used only for execu
 
 2. Enter the file name as &#x60;helloworld.js&#x60; and press &#x60;OK&#x60;. 
 
-<  Node.js scripts have the extension **.js**.
+>  Node.js scripts have the extension **.js**.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/newfile-name-save.png&quot; alt&#x3D;&quot;Save file&quot; width&#x3D;&quot;65%&quot;< &lt;br<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/newfile-name-save.png" width="50%">
 
 3. This will open the file.
 
 4. Copy and paste the following code into the file.
 
 ``` js
-console.log(&quot;Hello World!&quot;);
+console.log("Hello World!");
 ``` 
 This is how the file would appear on your window, after you paste the code and save it.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/node_code.png&quot; style&#x3D;&quot;width:50%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/node_code.png" width="50%">
 
-<Yes! That&#x27;s right. It is just a one line code in Node.js too. This is why most people start learning coding with scripting languages.
+> Yes! That&#x27;s right. It is just a one line code in Node.js too. This is why most people start learning coding with scripting languages.
 
 5. Click on **File** menu and choose **Save** to save the changes.
 
@@ -186,8 +183,7 @@ This is how the file would appear on your window, after you paste the code and s
 node helloworld.js
 ``` 
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/node_hw.png&quot; style&#x3D;&quot;width:75%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/node_hw.png" width="50%">
 
 ### Exercise 5: Display Hello World using Go
 
@@ -197,10 +193,9 @@ Go is a programming language. It is created by Google and is an Object-Oriented 
 
 2. Enter the file name as &#x60;helloworld.go&#x60; and press &#x60;OK&#x60;. 
 
-<  Go programs have the extension **.go**.
+>  Go programs have the extension **.go**.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/newfile-name-save.png&quot; alt&#x3D;&quot;Save file&quot; width&#x3D;&quot;65%&quot;< &lt;br<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/newfile-name-save.png" width="50%">
 
 3. This will open the file.
 
@@ -209,15 +204,14 @@ Go is a programming language. It is created by Google and is an Object-Oriented 
 ``` go
 package main
 
-import &quot;fmt&quot;
+import "fmt"
 func main() {
-    fmt.Println(&quot;Hello World!&quot;)
+    fmt.Println("Hello World!")
 }
 ``` 
 This is how the file would appear on your window, after you paste the code and save it.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/go_code.png&quot; width&#x3D;&quot;50%&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/go_code.png" width="50%">
 
 5. Click on **File** menu and choose **Save** to save the changes.
 
@@ -227,8 +221,7 @@ This is how the file would appear on your window, after you paste the code and s
 go run helloworld.go
 ``` 
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/go_hw.png&quot; style&#x3D;&quot;width:75%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/go_hw.png" width="50%">
 
 The exercises below are optional. It is only for you to do if you want to get a taste of more languages. You also have a bonus exercise at the end.
 
@@ -240,21 +233,20 @@ Ruby is also a scripting language. It is predominantly used in data science and 
 
 2. Enter the file name as &#x60;helloworld.rb&#x60; and press &#x60;OK&#x60;. 
 
-<  Ruby scripts have the extension **.rb**.
+> Ruby scripts have the extension **.rb**.
 
 3. This will open the file.
 
 4. Copy and paste the following code into the file.
 
 ``` ruby
-puts &quot;Hello World!&quot;;
+puts "Hello World!";
 ``` 
 This is how the file would appear on your window, after you paste the code and save it.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/ruby_code.png&quot; style&#x3D;&quot;width:50%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/ruby_code.png" width="50%">
 
-<Yes! That&#x27;s right. It is just a one line code in Ruby as in other scripting languages too. This is why most people start learning coding with scripting languages.
+> Yes! That&#x27;s right. It is just a one line code in Ruby as in other scripting languages too. This is why most people start learning coding with scripting languages.
 
 5. Click on **File** menu and choose **Save** to save the changes.
 
@@ -264,8 +256,7 @@ This is how the file would appear on your window, after you paste the code and s
 ruby helloworld.rb
 ``` 
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/ruby_hw.png&quot; style&#x3D;&quot;width:75%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/ruby_hw.png" width="50%">
 
 ### (Optional) Exercise 7: Display Hello World using PHP
 
@@ -275,7 +266,7 @@ PHP is also a scripting language. It stands for Hypertext Preprocessor. It is us
 
 2. Enter the file name as &#x60;helloworld.php&#x60; and press &#x60;OK&#x60;. 
 
-<  PHP files have the extension **.php**.
+>  PHP files have the extension **.php**.
 
 3. This will open the file.
 
@@ -283,13 +274,12 @@ PHP is also a scripting language. It stands for Hypertext Preprocessor. It is us
 
 ``` php
 <?php
-Print &quot;Hello, World!\n&quot;;
+Print "Hello, World!\n";
 >
 ``` 
 This is how the file would appear on your window, after you paste the code and save it.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/php_code.png&quot; style&#x3D;&quot;width:50%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/php_code.png" width="50%">
 
 <Yes! That&#x27;s right. It is just a one line code in PHP as in other scripting languages too but it has to be embedded within the php tags for the interpreter to understand it is php script.
 
@@ -301,8 +291,7 @@ This is how the file would appear on your window, after you paste the code and s
 php helloworld.php
 ``` 
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/php_hw.png&quot; style&#x3D;&quot;width:75%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/php_hw.png" width="50%">
 
 ### (Optional) Exercise 8: Display Hello World using C++
 
@@ -319,17 +308,15 @@ C++ is one of the first Object Oriented Programming languages that has been wide
 4. Copy and paste the following code into the file.
 
 ``` C++
-#include &lt;iostream<
-
+#include <iostream>
 int main() {
-  std::cout &lt;&lt; &quot;Hello World!\n&quot;;
+  std::cout << "Hello World!\n";
   return 0;
 }
 ``` 
 This is how the file would appear on your window, after you paste the code and save it.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/cpp_code.png&quot; style&#x3D;&quot;width:50%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/cpp_code.png" width="50%">
 
 5. Click on **File** menu and choose **Save** to save the changes.
 
@@ -346,8 +333,7 @@ g++  -o helloworld_cpp helloworld.cpp
 ./helloworld_cpp
 ``` 
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/cpp_hw.png&quot; style&#x3D;&quot;width:75%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/cpp_hw.png" width="50%">
 
 ### (Optional) Exercise 9: Display Hello World using Perl
 
@@ -364,14 +350,13 @@ Perl is also a scripting language. It is one of the older scripting languages an
 4. Copy and paste the following code into the file.
 
 ``` perl
-print(&quot;Hello World\n&quot;);
+print("Hello World\n");
 ``` 
 This is how the file would appear on your window, after you paste the code and save it.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/perl_code.png&quot; width&#x3D;&quot;50%&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/perl_code.png" width="50%">
 
-<Yes! That&#x27;s right. It is just a one line code in Perl too, as in other scripting languages too.
+> Yes! That&#x27;s right. It is just a one line code in Perl too, as in other scripting languages too.
 
 5. Click on **File** menu and choose **Save** to save the changes.
 
@@ -381,8 +366,7 @@ This is how the file would appear on your window, after you paste the code and s
 perl helloworld.pl
 ``` 
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/perl_hw.png&quot; style&#x3D;&quot;width:75%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/perl_hw.png" width="50%">
 
 ### (Optional) Exercise 10: Display Hello World shell script
 
@@ -393,18 +377,17 @@ Shell scripts are unique to UNIX operating system. It is one of the older script
 
 2. Enter the file name as &#x60;helloworld.sh&#x60; and press &#x60;OK&#x60;. 
 
-<  Shell scripts have the extension **.sh**.
+> Shell scripts have the extension **.sh**.
 
 3. This will open the file.
 
 4. Copy and paste the following code into the file.
 
 ``` sh
-echo &quot;Hello World!&quot;
+echo "Hello World!"
 ``` 
 This is how the file would appear on your window, after you paste the code and save it.
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/sh_code.png&quot; style&#x3D;&quot;width:50%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/sh_code.png" width="50%">
 
 5. Click on **File** menu and choose **Save** to save the changes.
 
@@ -414,8 +397,7 @@ This is how the file would appear on your window, after you paste the code and s
 sh helloworld.sh
 ``` 
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/sh_hw.png&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/sh_hw.png" width="50%">
 
 ### (Bonus) Exercise: Display Hello World with HTML on your browser
 
@@ -426,61 +408,50 @@ We worked on many programming and scripting languages. There is another kind cal
 
 2. Enter the file name as &#x60;helloworld.html&#x60; and press &#x60;OK&#x60;. 
 
-<  HTML code, usually referred to as HTML pages have the extension **.html**.
+> HTML code, usually referred to as HTML pages have the extension **.html**.
 
 3. This will open the file.
 
 4. Copy and paste the following code into the file.
 
 ``` html
-&lt;html<
+<html>
   Hello World!
-&lt;/html<
+</html>
 ``` 
 
 This is how the file would appear on your window, after you paste the code and save it.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/html_code.png&quot; style&#x3D;&quot;width:50%;margin_bottom:1cm&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/html_code.png" width="50%">
 
 5. Click on **File** menu and choose **Save** to save the changes.
 
 6. There is no compilation for HTML code. It is interpreted by the browser while rending. Right click on the filename and click **Download** to download it in your local machine.
 
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/download_html.png&quot; width&#x3D;&quot;50%&quot;< &lt;br<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/download_html.png" width="50%">
 
 7. Open on the downloaded file and it automatically opens in your default browser as below.
 
-
-&lt;img src&#x3D;&quot;https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/html_hw.png&quot; border&#x3D;&quot;2&quot;<
-<img src="" width="50%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0131EN-SkillsNetwork/labs/Module_3/images/html_hw.png" width="50%">
 
 ### Practice Exercises
 
-1. Create a python script named **greetings.py**. Display &quot;Hello &lt;yourname<! Good (Morning/Day/Evening/Night)&quot; using your python script.
-
-
-&lt;details<&lt;summary<Click here for sample solution&lt;/summary<
+1. Create a python script named **greetings.py**. Display "Hello &lt;yourname<! Good (Morning/Day/Evening/Night)" using your python script.
 
 ``` python
-print(&quot;Hello Liz! Good Evening!&quot;)
+print("Hello Liz! Good Evening!")
 ``` 
-&lt;/details<
 
 2. Create a php script named **oneliners.php**. Display three of your favorite oneliners, one after the other using your php script.
 
 
-&lt;details<&lt;summary<Click here for sample solution&lt;/summary<
-
 ``` php
-&lt;?php
-Print &quot;If you don’t like the road you’re walking, start paving another one.\n&quot;;
-Print &quot;The time is always right to do what is right.\n&quot;;
-Print &quot;It is never too late to be what you might have been.\n&quot;;
-?<
+<?php
+Print "If you don’t like the road you’re walking, start paving another one.\n";
+Print "The time is always right to do what is right.\n";
+Print "It is never too late to be what you might have been.\n";
+?>
 ``` 
-&lt;/details<
 
 #### Congratulations! You just started your coding journey experimenting with different languages!
 
