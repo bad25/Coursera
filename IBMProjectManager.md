@@ -40,6 +40,7 @@ The following is a breakdown of the IBM IT Project Manager, IBM Project Manager 
 - Software Engineering
 - Storage
 - Support
+
 [All of my submissions](https://drive.google.com/drive/folders/1zkfHaZBduI2ZWtIxlwDeRgqmCOML-akQ?usp=drive_link)
 ## Introduction to Project Management - Grade Achieved: 94
 > No Project Submission
@@ -94,9 +95,21 @@ The following is a breakdown of the IBM IT Project Manager, IBM Project Manager 
 > Kanban Board on Zenhub - Error link : Trial expired
 > https://app.zenhub.com/workspaces/try-agile-652305df47acda49410bf256/board
 ## Project Management Capstone - Grade Achieved: 87.97
-- [](https://github.com/bad25/Coursera/)
-- [](https://github.com/bad25/Coursera/)
-- [](https://github.com/bad25/Coursera/)
-- [](https://github.com/bad25/Coursera/)
+- [Final Project Scenario - Acme Health Innovations (AHI)](https://github.com/bad25/Coursera/)
+- [Reading: Business Case ](https://github.com/bad25/Coursera/)
+- [Reading: Stacey Analysis](https://github.com/bad25/Coursera/)
+- [Lab 1: Create a Project Charter and Stakeholder Register](https://github.com/bad25/Coursera/)
+- [Reading: Overview and Activity Requirements](https://github.com/bad25/Coursera/)
+- [Lab 2: WBS, Project Network Diagram and High level budget](https://github.com/bad25/Coursera/)
+- [Lab 3: Create Quality Management, Communications Plans, and Risk Register](https://github.com/bad25/Coursera/)
+- [Lab 4: User Stories, Product Backlog, and Sprint Backlog](https://github.com/bad25/Coursera/)
+- [Reading: Kanban board and Burndown Chart Review](https://github.com/bad25/Coursera/)
+- [Lab 5: Burndown Chart Analysis](https://github.com/bad25/Coursera/)
+- [Reading: Review a Project and Scenario Update](https://github.com/bad25/Coursera/)
+- [Lab 6: Status Report and Change Analysis](https://github.com/bad25/Coursera/)
+- [Reading: Lessons Learned Report and Retrospective](https://github.com/bad25/Coursera/)
+- [Lab 7: Project Close-Out Report](https://github.com/bad25/Coursera/)
+- [Reading: Overview and Project Submission Requirements ](https://github.com/bad25/Coursera/)
+- [Project Submission and Evaluation - Score 49 / 50 points](https://github.com/bad25/Coursera/)
 ## Practice Exam for CAPM Certification - Grade Achieved: 83
 > No Project Submission
