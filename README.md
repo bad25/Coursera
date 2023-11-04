@@ -1,38 +1,37 @@
 # Coursera
-**List of My Achievements**
+**My list of Achievements from Coursera and this is a portfolio of projects from the list of content below**
 ## Data Science
 - Advanced Data Analytics
-- Data Analytics
-- Data Science
-- Data Analyst
 - Azure Data Engineering Associate (DP-203)
-- Data Science Fundamentals with Python and SQL
-- Introduction to Data Science
 - BI Foundations with SQL, ETL, and Data Warehousing
-- Learn SQL Basics for Data Science
+- Data Analyst
+- Data Analytics
 - Data Engineering
+- Data Science
+- Data Science Fundamentals with Python and SQL
 - Data Warehouse Engineer
 - Database Engineer
+- Introduction to Data Science
+- Learn SQL Basics for Data Science
 - NoSQL, Big Data, and Spark Foundations
 
 ## Business
--	Business Intelligence
--	Project Management
--	Connected Planning for Business Transformation
--	Engineering Project Management
--	Modern Project Management
--	Software Product Management
--	Project Management Principles and Practices
--	Project Management & Other Tools for Career Development
--	Project Management
--	Professional Success Skills
+- Business Intelligence
+- Connected Planning for Business Transformation
+- Engineering Project Management
+- Modern Project Management
+- Project Management
+- Project Management
+- Project Management & Other Tools for Career Development
+- Project Management Principles and Practices
+- Software Product Management
 
 ## Computer Science
-- IT Automation with Python
-- DevOps and Software Engineering
-- Applied DevOps Engineering
-- Software Development Lifecycle
 - Agile Development
+- Applied DevOps Engineering
+- DevOps and Software Engineering
+- IT Automation with Python
+- Software Development Lifecycle
 
 ## Information Technology
 - Applied Software Engineering Fundamentals
@@ -45,10 +44,11 @@
 - Google Professional Workspace Administrator
 - Healthcare IT Support
 - Information Technology (IT) and Cloud Fundamentals
-- IT Project Manager
+- [IT Project Manager](https://github.com/bad25/Coursera/blob/main/IBMProjectManager.md)
 - IT Support
 - Microsoft 365 Fundamentals
 
 ## Personal Development
-- People and Soft Skills for Professional and Personal Success
 - Leading People and Teams
+- People and Soft Skills for Professional and Personal Success
+- Professional Success Skills
